@@ -4,11 +4,15 @@
 Identify whether a news article is Real or Fake using NLP.
 
 ## Tech Stack
+
 - Python
-- NLP
+- Natural Language Processing (NLP)
 - Machine Learning
-- MongoDB
+- Scikit-learn
+- Pandas
 - Flask
+- HTML / CSS
+- Git & GitHub
 
 ## Status
 Project Initialized
